@@ -1,12 +1,3 @@
-<style type="text/css">
-<!--
-body,td,th {
-	font-family: Courier New, Courier, mono;
-	font-size: 14px;
-}
--->
-</style>
-
 <?php
 set_time_limit(10000);
 ini_set('memory_limit', '512M');
