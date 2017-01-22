@@ -1,12 +1,3 @@
-<style type="text/css">
-<!--
-body,td,th {
-	font-family: Courier New, Courier, mono;
-	font-size: 14px;
-}
--->
-</style>
-
 <?php 
 /*
 HiSeq200:        PAIRED END (500 GAUSS)    FIXED LENGTH
